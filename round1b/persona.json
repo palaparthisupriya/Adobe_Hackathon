@@ -1,0 +1,12 @@
+{
+  
+  "persona": "Researcher in Renewable Energy",
+    "job_to_be_done": "Find recent insights on battery technologies for electric vehicles",
+    "input_documents": [
+      "file01.pdf",
+      "file02.pdf",
+      "file03.pdf",
+      "file04.pdf",
+      "file05.pdf"
+    ]
+  }  
