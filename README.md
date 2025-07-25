@@ -1,5 +1,5 @@
 Adobe Hackathon – Round 1A & 1B Solution
-This repository contains our solutions for Adobe’s "Connecting the Dots" Hackathon 2024.
+This repository contains our solutions for Adobe’s "Connecting the Dots" Hackathon 2025.
 
 Round 1A: Extracts the document title and outline structure (H1, H2, H3) from PDFs using font size and pattern-based heading detection.
 
